@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c,a as s,b as e}from"./app-5wIgtCPU.js";const _={},a=e("h2",null,"留言",-1),n=e("p",{class:"text"}," 嘿，朋友，在这里留下点什么吧，你可以畅所欲言 ",-1);function r(l,m){return o(),c("div",null,[s(" 用于设置文字逐个出现的效果 "),a,n])}const i=t(_,[["render",r],["__file","mb.html.vue"]]);export{i as default};
